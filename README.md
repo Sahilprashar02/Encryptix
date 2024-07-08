@@ -4,7 +4,7 @@
 Using machine learning techniques, I developed a model to predict survival rates aboard the Titanic. 
 By analyzing passenger data, I gained insights into factors influencing survival, contributing to disaster preparedness strategies. 
 
-🎬 `Task 2: Iris Flower Classification` 
+🎬 `TASK 2: Movie Rating Prediction with Python` 
 Implemented a machine learning model to predict movie ratings based on various features such as genre, cast, and user reviews. 
 This project involved data preprocessing, feature engineering, and applying linear regression to forecast ratings accurately. 
 The insights gained contribute to improving movie recommendations and understanding audience preferences. 
